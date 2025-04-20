@@ -71,6 +71,7 @@ body {
 
 .navbar__item {
     padding: 10px 15px;
+    border: 2px solid transparent;
 }
 
 .navbar__item__link {
@@ -81,7 +82,6 @@ body {
 .navbar__item:hover {
     border: 2px solid #B8FFEC;
     border-radius: 5px;
-    padding-top: 8px 13.5px;
     background-color: white;
 
 }
