@@ -22,6 +22,39 @@ body {
     font-family: "TT Lakes", sans-serif;
 }
 
+.icon-button {
+    background-color: #FF3E79;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px 20px;
+}
+.burger {
+    background-image: url('icons/burger.svg');
+}
+
+.repair {
+    background-image: url('icons/repair.svg');
+}
+
+.checkstatus {
+    background-image: url('icons/checkstatus.svg');
+}
+
+.call {
+    background-image: url('icons/call.svg');
+}
+
+.chat {
+    background-image: url('icons/chat.svg');
+}
+
+.profile {
+    background-image: url('icons/profile.svg');
+}
+
 .header__services, .section-title__actions {
     display: none;
 }
