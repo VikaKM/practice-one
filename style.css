@@ -328,7 +328,7 @@ body {
 
 .menu {
     width: 320px;
-    height: 100vh;
+    height: 1024px;
     background-color: white;
     position: absolute;
     display: flex;
