@@ -463,7 +463,7 @@ button {
     appearance: none;
 }
 
-.menu__footer-lang-option-input:checked + span {
+.menu__footer-lang-option:has(.menu__footer-lang-option-input:checked) {
     color: #7E7E82;
 }
 
