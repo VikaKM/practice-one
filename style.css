@@ -22,6 +22,10 @@ body {
     font-family: "TT Lakes", sans-serif;
 }
 
+button {
+    border: none;
+}
+
 .icon-button {
     background-color: #FF3E79;
     width: 40px;
@@ -441,7 +445,8 @@ body {
 
 .menu__footer-lang {
     display: flex;
-    margin-left: 20px;
+    list-style: none;
+    padding: 20px;
 }
 
 .menu__footer-lang-option {
